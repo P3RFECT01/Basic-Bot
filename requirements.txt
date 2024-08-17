@@ -1,0 +1,5 @@
+discord==2.1.0
+discord-py-slash-command==4.2.1
+discord.py==2.3.2
+python-discord==1.7.3
+pypresence==4.3.0
